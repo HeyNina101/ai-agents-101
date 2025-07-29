@@ -1,4 +1,4 @@
-# 🧠 LLMs & Agent Systems — Ultimate Learning Playlist
+# 🧠 Building AI Agents — High-Impact Courses
 
 Level up your AI game with this handpicked set of powerful, practical resources on LLMs, agents, RAG, vector databases, memory and eval.
 
